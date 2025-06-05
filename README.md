@@ -3,7 +3,7 @@
 
 🔗 **Live Site**: [https://hepermarket-shopping.netlify.app/](https://hepermarket-shopping.netlify.app/)
 
-📚 **This project was developed as part of our graduation project during the 2nd year of the State Engineer Degree in Computer Science.**
+📚 **This project was developed as part of our graduation project during the 2nd year of the  Engineer Degree in Computer Science.**
 
 ---
 
