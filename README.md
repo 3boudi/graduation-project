@@ -25,19 +25,21 @@
 ---
 
 ## 📸 Screenshots
+### 🔐 log-in pages (Hypermarket System+Supermarket System):
+- ![Login](https://your-image-link.com/admin-1.png)
 
 ### 🔐 Admin Dashboard (Hypermarket System)
-- ![Admin Dashboard 1](https://your-image-link.com/admin-1.png)
-- ![Admin Dashboard 2](https://your-image-link.com/admin-2.png)
-- ![Admin Dashboard 3](https://your-image-link.com/admin-3.png)
+
+- ![Admin Dashboard 1](https://your-image-link.com/admin-2.png)
+- ![Admin Dashboard 2](https://your-image-link.com/admin-3.png)
 
 ### 🧾 Manager/Cashier Dashboard (Supermarket System)
-- ![Cashier View 1](https://your-image-link.com/cashier-1.png)
-- ![Cashier View 2](https://your-image-link.com/cashier-2.png)
+- ![Cashier View](https://your-image-link.com/cashier-1.png)
 - ![Manager Dashboard](https://your-image-link.com/manager-1.png)
 
 ### 🌐 Website Interface
 - ![Web App View](https://your-image-link.com/web-landing.png)
 
 ### 🖥️ Desktop Application
-- ![Desktop App](https://your-image-link.com/desktop-app.png)
+- ![Desktop App1](https://your-image-link.com/desktop-app.png)
+- ![Desktop App2](https://your-image-link.com/desktop-app.png)
